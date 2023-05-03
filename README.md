@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @philip-ifeanyi
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning web-development
-- 💞️ I’m looking to collaborate on small projects
+- 🌱 I’m currently learning fullstack web-development
+- 💞️ I’m looking to collaborate on projects
 - 📫 Reach me on akubuiro.ifeanyi.philip@gmail.com
 
 <!---
