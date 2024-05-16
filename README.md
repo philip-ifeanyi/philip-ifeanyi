@@ -1,3 +1,5 @@
+<a href="https://gitroll.io/profile/ubQn0Rd8ztRNV8CqvqcFAyln0IpO2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubQn0Rd8ztRNV8CqvqcFAyln0IpO2" alt="GitRoll Profile Badge"/></a>
+
 - 👋 Hi, I’m Philip
 - 👀 I’m interested in Software development, looking to go into dynamic programming, distributed systems and focusing on systems analysis and design
 - 🌱 FullStack Web Developer React, Express, MongoDB, NodeJS, and some Python too 😁
